@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>💣 WLD Bomb 2D</h1>
+  <h1>💣 WLD Bomb </h1>
   <canvas id="gameCanvas" width="400" height="300"></canvas>
   <h3 id="status">Jugador: 1 | Tiempo: <span id="timer">30</span>s</h3>
   <button onclick="passBomb()">Pasar Bomba</button>
